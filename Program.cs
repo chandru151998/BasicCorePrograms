@@ -6,7 +6,7 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            PrimeFactorisation.Factorization();
+            QuotientRemainder.CalculateQuotientRemainder();
         }
     }
 }
