@@ -6,7 +6,7 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            QuotientRemainder.CalculateQuotientRemainder();
+            SwapTwoNumbers.SwapNumbers();
         }
     }
 }
