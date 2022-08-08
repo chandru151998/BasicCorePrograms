@@ -6,7 +6,7 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            HarmonicNumber.HarmonicNum();
+            PrimeFactorisation.Factorization();
         }
     }
 }
